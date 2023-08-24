@@ -8,7 +8,7 @@ public class Hello1 {
 
 	public static void main(String[] args) {
 		System.out.println("llrrr");
-		
+		System.out.println("llrrr");
 		/*
 		String str="InterviewProcess";
 		
